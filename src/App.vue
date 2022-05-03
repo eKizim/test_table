@@ -32,6 +32,5 @@ onMounted(() => {
   width: 1230px;
   padding: 20px 80px;
   margin: 50px auto;
-  box-shadow: 0 0 3px 2px var(--border-color);
 }
 </style>
