@@ -22,7 +22,6 @@ onMounted(() => {
 }
 
 :root {
-  font-size: 14px;
   --main-dark: #474955;
   --light-dark: #5a5c66;
   --border-color: #e3e6ec;

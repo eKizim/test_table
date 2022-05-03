@@ -84,7 +84,7 @@ function sortTable(e) {
 
 <style scoped>
 table {
-  margin-bottom: 0;
+    border-collapse: collapse;
 }
 
 .id_col {
@@ -122,10 +122,6 @@ th {
 
 .table_header__content.sorted {
   border-bottom-color: white;
-}
-
-.table_header__content p {
-  margin: 0;
 }
 
 .sorting_pointer {
